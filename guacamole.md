@@ -6,4 +6,4 @@
 * salt (2.00)
 
 ## Instructions
-
+* Âpeel the avocados
